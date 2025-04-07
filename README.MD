@@ -82,7 +82,5 @@ The app uses Room to create and manage an SQLite database with a single table:
 ## Future Enhancements
 
 - Add more fields (e.g. phone number, address)
-- Use RecyclerView with custom layouts
 - Add Material Design components
 - Improve form validation (e.g. email format check)
-- Move to MVVM architecture using ViewModel and LiveData
